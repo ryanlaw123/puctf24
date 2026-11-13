@@ -1,5 +1,11 @@
 # polyuctf 2024 T015 write-ups
 
+Team : T015\_Chill Player
+
+Tertiary Rank : 5
+
+[Official Scoreboard](https://2024.polyuctf.com/scoreboard/tertiary)
+
 ## Index
 | Question | Title | Categories |
 | --- | --- | --- |

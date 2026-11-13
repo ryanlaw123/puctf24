@@ -1,6 +1,6 @@
 # polyuctf 2024 T015 write-ups
 
-Team : T015\_Chill Player
+Team : T015\_HKCT
 
 Tertiary Rank : 5
 
